@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <OutputPath>$(SolutionDir)\Binaries\$(AssemblyName)\$(Configuration)\$(Platform)</OutputPath>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OpenWt.Contracts\OpenWt.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

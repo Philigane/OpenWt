@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oaLkQoaXZf9JTl5Tatcbi4u4TUIZ0jsdKwvnS5+fEVFzlTCw3D4/Ntmw9DM9kDIcino2R79kO0Dq/mMEL4yTeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brice\\Downloads\\OpenWt\\OpenWt.Models\\OpenWt.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brice\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

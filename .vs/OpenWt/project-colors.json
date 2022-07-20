@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9720ad85-fcf0-4af1-8b5c-ac8064374c8a": {
+      "ProjectGuid": "9720ad85-fcf0-4af1-8b5c-ac8064374c8a",
+      "DisplayName": "OpenWt.Contracts",
+      "ColorIndex": 0
+    },
+    "b54d5279-610a-46c8-809f-a235ed523b01": {
+      "ProjectGuid": "b54d5279-610a-46c8-809f-a235ed523b01",
+      "DisplayName": "OpenWt.Models",
+      "ColorIndex": 1
+    },
+    "8464df5a-3d3a-494a-933f-85e4c383a79b": {
+      "ProjectGuid": "8464df5a-3d3a-494a-933f-85e4c383a79b",
+      "DisplayName": "OpenWt.Controllers",
+      "ColorIndex": 2
+    },
+    "56dc7dd9-97ae-46ad-ae1a-477a380df5e6": {
+      "ProjectGuid": "56dc7dd9-97ae-46ad-ae1a-477a380df5e6",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "d180e3df-6053-4b86-b01d-0ce86083c5b8": {
+      "ProjectGuid": "d180e3df-6053-4b86-b01d-0ce86083c5b8",
+      "DisplayName": "OpenWt",
+      "ColorIndex": 4
+    },
+    "79c6d42a-8e29-4f15-97cb-adc7349aad14": {
+      "ProjectGuid": "79c6d42a-8e29-4f15-97cb-adc7349aad14",
+      "DisplayName": "OpenWt.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
